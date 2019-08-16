@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  chart1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-08-16T18:35:14.805670927+03:00"
+    description: A Helm chart for Kubernetes
+    digest: da0285522a1f9da1194c9a7d0a72c206107055b385429bd24bd4c2738087afc5
+    name: chart1
+    urls:
+    - https://davydyuk.github.io/public2/chart1-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-16T18:35:14.805239891+03:00"
